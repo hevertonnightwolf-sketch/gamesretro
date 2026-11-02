@@ -31,5 +31,16 @@
     "rom_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/gamesretro/main/topgear.zip",
     "tamanho_mb": 1.0,
     "core": "snes"
+  },
+  {
+    "id": "snes_sbm5gc",
+    "titulo": "Super Bomberman 5 (Gold Cartridge)",
+    "console": "Super Nintendo",
+    "categoria": "Ação",
+    "ano": "1997",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Bomberman%205%20(Japan).png",
+    "rom_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/gamesretro/main/sbm5gc.zip",
+    "tamanho_mb": 1.5,
+    "core": "snes"
   }
 ]
