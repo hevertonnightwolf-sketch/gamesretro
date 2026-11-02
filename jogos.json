@@ -20,16 +20,5 @@
     "rom_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/gamesretro/main/dkc.zip",
     "tamanho_mb": 2.4,
     "core": "snes"
-  },
-  {
-    "id": "snes_topgear",
-    "titulo": "Top Gear",
-    "console": "Super Nintendo",
-    "categoria": "Corrida",
-    "ano": "1992",
-    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System/master/Named_Boxarts/Top%20Gear%20(USA).png",
-    "rom_url": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/gamesretro/main/topgear.zip",
-    "tamanho_mb": 1.0,
-    "core": "snes"
   }
 ]
