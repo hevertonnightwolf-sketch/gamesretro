@@ -41,7 +41,7 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%20-%20Super%20Vehicle-001.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslug.zip",
     "tamanho_mb": 14.2,
-    "core": "neogeo"
+    "core": "fbneo"
   },
   {
     "id": "neogeo_mslug2",
@@ -52,7 +52,7 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%202%20-%20Super%20Vehicle-001-II.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslug2.zip",
     "tamanho_mb": 18.5,
-    "core": "neogeo"
+    "core": "fbneo"
   },
   {
     "id": "neogeo_mslugx",
@@ -63,7 +63,7 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%20X%20-%20Super%20Vehicle-001.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslugx.zip",
     "tamanho_mb": 29.1,
-    "core": "neogeo"
+    "core": "fbneo"
   },
   {
     "id": "neogeo_mslug3",
@@ -74,7 +74,7 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%203.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslug3.zip",
     "tamanho_mb": 34.0,
-    "core": "neogeo"
+    "core": "fbneo"
   },
   {
     "id": "neogeo_mslug4",
@@ -85,7 +85,7 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%204.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslug4.zip",
     "tamanho_mb": 42.5,
-    "core": "neogeo"
+    "core": "fbneo"
   },
   {
     "id": "neogeo_mslug5",
@@ -96,6 +96,6 @@
     "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%205.png",
     "rom_url": "https://archive.org/download/neogeo_romcollection/mslug5.zip",
     "tamanho_mb": 45.8,
-    "core": "neogeo"
+    "core": "fbneo"
   }
 ]
