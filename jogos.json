@@ -31,5 +31,71 @@
     "rom_url": "https://archive.org/download/snes-romset-ultra-us/Top%20Gear%20%28USA%29.zip",
     "tamanho_mb": 1.0,
     "core": "snes"
+  },
+  {
+    "id": "neogeo_mslug",
+    "titulo": "Metal Slug - Super Vehicle-001",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "1996",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%20-%20Super%20Vehicle-001.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslug.zip",
+    "tamanho_mb": 14.2,
+    "core": "neogeo"
+  },
+  {
+    "id": "neogeo_mslug2",
+    "titulo": "Metal Slug 2",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "1998",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%202.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslug2.zip",
+    "tamanho_mb": 18.5,
+    "core": "neogeo"
+  },
+  {
+    "id": "neogeo_mslugx",
+    "titulo": "Metal Slug X",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "1999",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%20X.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslugx.zip",
+    "tamanho_mb": 29.1,
+    "core": "neogeo"
+  },
+  {
+    "id": "neogeo_mslug3",
+    "titulo": "Metal Slug 3",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "2000",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%203.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslug3.zip",
+    "tamanho_mb": 34.0,
+    "core": "neogeo"
+  },
+  {
+    "id": "neogeo_mslug4",
+    "titulo": "Metal Slug 4",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "2002",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%204.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslug4.zip",
+    "tamanho_mb": 42.5,
+    "core": "neogeo"
+  },
+  {
+    "id": "neogeo_mslug5",
+    "titulo": "Metal Slug 5",
+    "console": "Neo Geo",
+    "categoria": "Ação / Tiro",
+    "ano": "2003",
+    "capa_url": "https://raw.githubusercontent.com/libretro-thumbnails/SNK_-_Neo_Geo/master/Named_Boxarts/Metal%20Slug%205.png",
+    "rom_url": "https://archive.org/download/neogeo_romcollection/mslug5.zip",
+    "tamanho_mb": 45.8,
+    "core": "neogeo"
   }
 ]
